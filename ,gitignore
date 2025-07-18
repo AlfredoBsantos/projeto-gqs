@@ -1,0 +1,13 @@
+# Dependências do Node
+node_modules/
+
+# Arquivos de ambiente (para senhas e configurações secretas)
+.env
+
+# Arquivos de log e do Cypress
+npm-debug.log
+cypress/videos/
+cypress/screenshots/
+
+# Arquivo do banco de dados SQLite
+database.sqlite
