@@ -49,10 +49,12 @@ Bash
 ```
 npm run cypress:open
 ```
-##Teste Cypress
+##**Teste Cypress**
+
 <img width="1808" height="716" alt="image" src="https://github.com/user-attachments/assets/2579cabd-de7e-4a1d-9aef-bd2cba76fde5" />
 
-##Teste de Classes
+##**Teste de Classes**
+
 <img width="701" height="752" alt="image" src="https://github.com/user-attachments/assets/124da8fa-abce-4439-9e9e-b8524814feb5" />
 
 
